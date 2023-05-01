@@ -11,8 +11,7 @@ import requests
 import time
 import os
 import phonenumbers
-from phonenumbers import carrier, geocoder, timezone
-from sys import stderr
+
 
 
 Bl='\033[30m' # VARIABLE BUAT WARNA CUYY
